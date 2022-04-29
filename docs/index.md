@@ -2,7 +2,9 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-Version 0.0.1
+Version 0.0.2
+
+New text.
 
 ## Commands
 
